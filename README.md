@@ -1,6 +1,6 @@
 # Blockchain_Python
 ## Description
-Blockchain peer-to-peer app with mutual exclusion and threads.
+Blockchain peer-to-peer app with mutual exclusion and threads created with Flask (Python).
 
 ## Getting started
 First install all packages inside requirements.txt using the "pip install" command. After that execute the app on three different ports: 5000, 5001 and 5002. This can be done with the simple command "python Blockchain_app.py -p 5000" (repeat it for each port). Eventually, run Blockchain_requests.py (this is a test file, to try the different functions implemented on the app) and you will see the following output in you shell/bash terminal.
