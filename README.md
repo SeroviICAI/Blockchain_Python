@@ -7,8 +7,10 @@ First install all packages inside requirements.txt using the "pip install" comma
 
 ![localhost:5000](https://github.com/SeroviICAI/Blockchain_Python/blob/master/images/localhost5000_screenshot.jpg)
 localhost:5000
+
 ![localhost:5001](https://github.com/SeroviICAI/Blockchain_Python/blob/master/images/localhost5001_screenshot.jpg)
 localhost:5001
+
 ![localhost:5002](https://github.com/SeroviICAI/Blockchain_Python/blob/master/images/localhost5002_screenshot.jpg)
 localhost:5002
 
